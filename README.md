@@ -1,35 +1,35 @@
-# Staff Guidelines <a name="guidelines"/>
+# Staff Guidelines
 - [Moderation](#moderation)
   - [General](#general)
   - [Tools](#tools)
-  - [Specific](#specifics)
-- [Sectional Moderation](#sectional)
-  - [Minecraft Discussion](#md)
-  - [Mapping and Modding](#mnm)
-  - [MCX360, MCPE and Other Platforms](#op)
+  - [Specific](#specific)
+- [Sectional Moderation](#sectional-moderation)
+  - [Minecraft Discussion](#minecraft-discussion)
+  - [Mapping and Modding](#mapping-and-modding)
+  - [MCX360, MCPE and Other Platforms](#mcx360-mcpe-and-other-platforms)
   - [Servers](#servers)
   - [Support](#support)
-  - [Show Your Creation](#syc)
-  - [Off Topic](#ot)
+  - [Show Your Creation](#show-your-creation)
+  - [Off Topic](#off-topic)
 - [IRC](#irc)
-  - [Mandatory channels](#mandatory)
-  - [Optional channels](#optional)
-  - [Pinging an admin](#ping)
-  - [If an admin is unavailable](#unavailable)
+  - [Mandatory channels](#mandatory-channels)
+  - [Optional channels](#optional-channels)
+  - [Pinging an admin](#pinging-an-admin)
+  - [If no admins are available](#if-no-admins-are-available)
 - [Etiquette](#etiquette)
 - [Apparatus](#apparatus)
-  - [More modapp information](#modapp)
+  - [More modapp information](#more-modapp-information)
 
-## Moderation <a name="moderation"/>
+## Moderation
 
-### General <a name="general"/>
+### General
 
 * __No tablet/mobile moderation__
 
   Never moderate from a phone/tablet device. Not only are infractions issued incorrectly when using a mobile device,
 but general moderation is trickier and errors far more frequent. Only moderate from a desktop or laptop computer.
 
-### Tools <a name="tools"/>
+### Tools
 
 * __Locking__
 
@@ -61,7 +61,7 @@ moves. Please ask your FA if in doubt.
   Members with no previous infractions/informals should always receive an informal warning unless their first
 rule break is worth 2 points or more.
 
-### Specifics <a name="specifics"/>
+### Specific
 
 * __Dealing with profanity__
 
@@ -79,13 +79,13 @@ infract for "Server thread (wrong section)". If it's a first offense, informal.
 do not move hosting threads into "Minecraft Server Hosting". If the thread is not a duplicate, move it to
 "Other Hosts".
 
-## Sectional Moderation <a name="sectional"/>
+## Sectional Moderation
 
-### Minecraft Discussion <a name="md"/>
+### Minecraft Discussion
  
-### Mapping and Modding <a name="mnm"/>
+### Mapping and Modding
 
-### MCX360, MCPE and Other Platforms <a name="op"/>
+### MCX360, MCPE and Other Platforms
 
 * __Lock "When's the new update?" threads__
 
@@ -151,23 +151,23 @@ from accessing the Service, playing pirated games, or using unauthorized hardwar
 
 * __Xbox 360 glitching is not allowed__
 
-Any threads detailing how to perform any duplication glitches within Minecraft: Xbox Edition should be hidden
+  Any threads detailing how to perform any duplication glitches within Minecraft: Xbox Edition should be hidden
 and the user should receive an informal infraction notifying them that such posts aren't accepted.
 
-### Servers <a name="servers"/>
+### Servers
 
-### Support <a name="support"/>
+### Support
 
-### Show Your Creation <a name="syc"/>
+### Show Your Creation
 
-### Off Topic <a name="ot"/>
+### Off Topic
 
-## IRC <a name="irc"/>
+## IRC
 
 Being on IRC is mandatory while moderating. This is to allow staff members to communicate quickly and efficiently
 with one another in case any issues arrise.
 
-### Mandatory channels <a name="mandatory"/>
+### Mandatory channels
 
 * __#forum__
   
@@ -175,35 +175,35 @@ with one another in case any issues arrise.
 
 * __#mcf_(section)__
   
-  Your section specific IRC channel. EG: #mcf_md, #mcf_support, #mcf_servers, #mcf_mnm, #mcf_syc, #mcf_platforum, #mcf_ot
+  Your section specific IRC channel. EG: #mcf_md, #mcf_mnm, #mcf_platforum #mcf_servers, #mcf_support, #mcf_syc, #mcf_ot
 
-### Optional channels <a name="optional"/>
+### Optional channels
 
 * __#fofftopic__ An offtopic chat channel for the entire staff group.
 
 * __#minecraftforums__ The Minecraft Forum support channel.
 
-### Pinging an admin <a name="ping"/>
+### Pinging an admin
 
 If you require the attention of an admin within #forum, please use the following pings:
 
 * __Suspension: (amount) (user)__
 
-EG: Suspension: 7 days http://www.minecraftforum.net/user/424279-d3fin3d/
+  EG: Suspension: 7 days http://www.minecraftforum.net/user/424279-d3fin3d/
 
 * __Malware: (post)__
 
-EG: Malware: http://www.minecraftforum.net/topic/1384861-
+  EG: Malware: http://www.minecraftforum.net/topic/1384861-
 
 * __Spambot: (post)__
 
-EG: Spambot: http://www.minecraftforum.net/topic/1384861-
+  EG: Spambot: http://www.minecraftforum.net/topic/1384861-
 
 * __Alt: (user) (type) [thread]__
 
-EG: Alt: http://www.minecraftforum.net/user/424279-d3fin3d/ Main: http://www.minecraftforum.net/user/424279-d3fin3d/ Misrepresentation http://www.minecraftforum.net/topic/1384861-
+  EG: Alt: http://www.minecraftforum.net/user/424279-d3fin3d/ Main: http://www.minecraftforum.net/user/424279-d3fin3d/ Misrepresentation http://www.minecraftforum.net/topic/1384861-
 
-### If no admins are available <a name="unavailable"/>
+### If no admins are available
 
 If you do not get a response from an admin within 20-30 minutes, please report to either:
 
@@ -211,7 +211,7 @@ If you do not get a response from an admin within 20-30 minutes, please report t
 * __General requests__ http://www.minecraftforum.net/topic/300102-general-request-thread/
 * __Suspension requests__ http://www.minecraftforum.net/topic/1484957-suspension-request-thread/
 
-## Etiquette <a name="etiquette"/>
+## Etiquette
 
 As a Minecraft Forum staff member it's important to note that, besides helping to keep things running
 smoothly, there are some fundamental points of etiquette that need to be followed:
@@ -287,7 +287,7 @@ alternate account.
 Please ensure that everything you do fits within these etiquette guidelines. We take staff misbehaviour very
 seriously, especially considering the public representative position that staff members have been given.
 
-## Apparatus <a name="apparatus"/>
+## Apparatus
 
 A number of things to keep in mind when voting and commenting on moderator applications, as these really help us
 out when deciding on potential new staff members.
@@ -346,7 +346,7 @@ little thing you don't like.
 
   It's not a race to get voting done. Take your time to really consider each applicant. 
   
-### More modapp information <a name="modapp"/>
+### More modapp information
 
 * __Applying to be a mod thread__
 
@@ -354,4 +354,4 @@ little thing you don't like.
 other people have told them to say.
 
 
-[Return to top](#guidelines)
+[Return to top](#staff-guidelines)
