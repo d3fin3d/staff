@@ -40,8 +40,7 @@ but general moderation is trickier and errors far more frequent. Only moderate f
 * __Moving__
 
   Always make sure that "Leave a link to the new topic in the source forum?" is checked when moving a thread to
-a different category. This ensures members can easily find their post. The only exception to this is during mass
-moves. Please ask your FA if in doubt.
+a different category. This ensures members can easily find their post.
 
 * __Editing__
 
