@@ -18,7 +18,7 @@
   - [If no admins are available](#if-no-admins-are-available)
 - [Etiquette](#etiquette)
 - [Apparatus](#apparatus)
-  - [More modapp information](#more-modapp-information)
+  - [Applying to be a mod thread](#applying-to-be-a-mod-thread)
 
 ## Moderation
 
@@ -33,9 +33,9 @@ but general moderation is trickier and errors far more frequent. Only moderate f
 
 * __Locking__
 
-  Threads should be locked if the thread itself is redundant, or  irrelevant.  
-  Unless a thread is several topic pages buried, or is extremely old, you should
-  always leave a lock message.
+  Threads should be locked if the thread itself is redundant or irrelevant. EG: repeated suggestions, content
+that could be posted within pinned threads or topics that have been bumped and are no longer relevant. Unless a
+thread is a couple of topic pages buried, or is old, you should always leave a lock message.
 
 * __Moving__
 
@@ -53,7 +53,7 @@ a different category. This ensures members can easily find their post.
 * __Hiding__
 
   If a thread is breaking a rule, it should be hidden. Hidden threads should almost always be infracted/informalled.
-  Feel free to ask an admin if you are unsure whether to hide a post.
+  Feel free to ask an admin if you are unsure whether to hide/infract a post.
 
 * __Infracting__
 
@@ -74,9 +74,8 @@ infract for "Server thread (wrong section)". If it's a first offense, informal.
 
 * __Do not move threads into "Minecraft Server Hosting"__
 
-  Minecraft server host threads are carefully vetted before being moved into the "Minecraft Server Hosting". As such,
-do not move hosting threads into "Minecraft Server Hosting". If the thread is not a duplicate, move it to
-"Other Hosts".
+  Minecraft server host threads are carefully vetted before being moved into the "Minecraft Server Hosting" section.
+As such, do not move hosting threads into this category. If the thread is not a duplicate, move it to "Other Hosts".
 
 ## Sectional Moderation
 
@@ -170,7 +169,8 @@ with one another in case any issues arrise.
 
 * __#forum__
   
-  To be used for general moderation questions, suspension adjustements, ip checks and the removal of spambots, malware and misused alt accounts.
+  To be used for general moderation questions, suspension adjustments, ip checks, avatar and signature
+removals, spambots, malware and misused alt accounts.
 
 * __#mcf_(section)__
   
@@ -186,7 +186,7 @@ with one another in case any issues arrise.
 
 If you require the attention of an admin within #forum, please use the following pings:
 
-* __Suspension: (amount) (user)__
+* __Suspension: (amount) (member)__
 
   EG: Suspension: 7 days http://www.minecraftforum.net/user/424279-d3fin3d/
 
@@ -198,9 +198,10 @@ If you require the attention of an admin within #forum, please use the following
 
   EG: Spambot: http://www.minecraftforum.net/topic/1384861-
 
-* __Alt: (user) (type) [thread]__
+* __Alt: (members) (type) [thread]__
 
-  EG: Alt: http://www.minecraftforum.net/user/424279-d3fin3d/ Main: http://www.minecraftforum.net/user/424279-d3fin3d/ Misrepresentation http://www.minecraftforum.net/topic/1384861-
+  EG: Alt: http://www.minecraftforum.net/user/424279-d3fin3d/ Main: http://www.minecraftforum.net/user/424279-d3fin3d/
+Misrepresentation http://www.minecraftforum.net/topic/1384861-
 
 ### If no admins are available
 
@@ -345,12 +346,11 @@ little thing you don't like.
 
   It's not a race to get voting done. Take your time to really consider each applicant. 
   
-### More modapp information
+### Applying to be a mod thread
 
-* __Applying to be a mod thread__
+* __Do not give members application advice__
 
-  Do not give members mod application advice. We want to see what people have to say about themselves, not what
-other people have told them to say.
+   We want to see what people have to say about themselves, not what other people have advised them to say.
 
 
 [Return to top](#staff-guidelines)
