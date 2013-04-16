@@ -33,8 +33,8 @@ but general moderation is trickier and errors far more frequent. Only moderate f
 
 * __Locking__
 
-  Threads are locked when they are: repeated suggestions, reundandant topics or threads that are no longer relevant
-  to the current ver of minecraft. Unless a thread is several topic pages buried, or is extremely old, you should
+  Threads should be locked if the thread itself is redundant, or  irrelevant.  
+  Unless a thread is several topic pages buried, or is extremely old, you should
   always leave a lock message.
 
 * __Moving__
