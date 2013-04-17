@@ -93,6 +93,36 @@ As such, do not move hosting threads into this category. If the thread is not a 
  
 ### Mapping and Modding
 
+* __Images and Videos__
+
+  If a topic does not have images or videos embedded, but does have them linked in the topic, edit the post and embed them for them.
+  If a topic does not have images or videos at all, then informal them reminding them of that, and leave the topic for them to fix. 
+  If they do not have it fixed within a day or two, hide the topic.
+  
+* __Mod / Mod devs clashes__
+
+  If 2 or more mods or mod makers are clashing/arguing with each other, contact the Forum Admin and inform him of it.
+  Such situations usually require the admin to get involved to have it resolved.
+  
+* __Exe files__
+
+  Exe only downloads are not allowed except in the Tools section. If there are any exe only downloads, remove the topic and informal the user.
+  Exes are also the most common way to distribute malware, so be sure to get those files scanned. 
+
+* __Malware and Scans__
+
+  If you come across a suspicious file, please get it scanned. 
+  If you need to hide the topic for a little bit to avoid users from running it, please do.
+  The most common scan sites we use are [Virustotal](http://virustotal.com) and [Anubis](http://anubis.iseclab.org/).
+  Malware is a perm-ban and should be reported in #forum using the [Pinging an admin](#pinging-an-admin) template for malware.
+  Lastlogin stealers and backdoor plugin or mods are not a perm-ban on the first offense, so use the Malware warn template.
+  On the second offense, follow the [Pinging an admin](#pinging-an-admin) Malware template to have the account banned.
+  
+* __Mod Sites__
+ 
+  Sites that redistribute mods, whether by rehosting the files or by linking the original topic or download links, are not allowed.
+  Such sites are not permitted and should be warned for advertising.
+
 ### MCX360, MCPE and Other Platforms
 
 * __Lock "When's the new update?" threads__
@@ -217,9 +247,9 @@ If you require the attention of an admin within #forum, please use the following
 
   EG: Suspension: 7 days http://www.minecraftforum.net/user/424279-d3fin3d/
 
-* __Malware: (post)__
+* __Malware: (post) (scan if one has been done)__
 
-  EG: Malware: http://www.minecraftforum.net/topic/1384861-
+  EG: Malware: http://www.minecraftforum.net/topic/1384861- https://www.virustotal.com/en/file/23200dd58f8b2b225999eb1107d87e173540ad965e913ed2c3e2d9e235fe13d7/analysis/
 
 * __Spambot: (post)__
 
