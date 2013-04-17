@@ -187,6 +187,11 @@ and the user should receive an informal infraction notifying them that such post
 Being on IRC is mandatory while moderating. This is to allow staff members to communicate quickly and efficiently
 with one another in case any issues arrise.
 
+* __Ask in IRC before heading to the forums__
+
+  If you have any questions or requests, always ask within IRC first. There are many helpful staff members lurking
+who are ready and able to help answer any queries you may have.
+
 ### Mandatory channels
 
 * __#forum__
