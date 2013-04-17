@@ -1,3 +1,6 @@
+[Minecraft Forums Index](http://www.minecraftforum.net/forum) | 
+[minecraftforum.net Rules](http://rules.mcf.li/) |
+[Apparatus](http://apparatus.mcf.li/)
 # Staff Guidelines
 - [Moderation](#moderation)
   - [General](#general)
@@ -53,7 +56,7 @@ a different category. This ensures members can easily find their post.
 * __Hiding__
 
   If a thread is breaking a rule, it should be hidden. Hidden threads should almost always be infracted/informalled.
-  Feel free to ask an admin if you are unsure whether to hide/infract a post.
+Feel free to ask an admin if you are unsure whether to hide/infract a post.
 
 * __Infracting__
 
@@ -62,10 +65,17 @@ rule break is worth 2 points or more.
 
 ### Specific
 
+* __Check their infraction history and don't stack informal warnings__
+
+  Before issuing an informal/infraction, you should always check a members infraction history. If a member has 1
+or more prior informals, it's time to give them a formal infraction. Informals exist both to remind members of the
+rules and to informally warn for light rule breaks. Piling up informals suggests that it's possible to continue
+breaking the rules without consequence.
+
 * __Dealing with profanity__
 
-  If a post contains profanity, acronyms included, the word(s) should be edited out. If the profanity coincides
-  with any flaming or other rule breaking, please remove the post and infract as normal.
+  If a post contains profanity, acronyms included, the word(s) should be edited out. If the profanity coincides 
+with any flaming or other rule breaking, please remove the post and infract as normal.
 
 * __Misplaced server threads should be hidden__
 
@@ -94,6 +104,18 @@ appropriate pinned thread.
 
   Do not reply to any messages you receive from parties involved with Minecraft such as Mojang, Microsoft or 4J Studios.
 Add citricsquid to the conversation instead allowing him to deal with it in an appropriate manner.
+
+* __Dealing with misplaced Multiplayer threads__
+
+  If a server, session or mini-game thread is posted outside of the Multiplayer section, please remove the
+thread and, if it's a first offense, informal with the reason: "server thread wrong section". If it's their
+second, go ahead and formally warn.
+  
+  Misplaced "Looking For / Build Help" or clan threads, providing they are not duplicates, should be moved
+to the appropriate section.
+  
+  Server, session or mini-game threads posted in the wrong section within the Multiplayer section should be
+moved to the correct category. If the thread is a duplicate, hide as normal.
 
 * __PE Texture packs require the authors permission__
 
