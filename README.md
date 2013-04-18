@@ -90,7 +90,17 @@ As such, do not move hosting threads into this category. If the thread is not a 
 ## Sectional Moderation
 
 ### Minecraft Discussion
+
+* __Server Threads__
+* 
+* Hide and infract users for advertising server threads outside of the server section.  If the user is reletevely new (i.e < 10 posts) and has never recieved an infraction before, you can just give an informal; otherwise give a full infraction.  However, if a user has made a thread looking to join a server, move that thread to the Looking For section.
  
+* __Redundant Suggestions__
+* Lock and provide a link to the previous topic in the lock message.  Utilize the "Common Suggestions" thread that is pinned in the Suggestion section to find the links.
+
+* __Video Replies in News Section__
+* Per Sacheverell's request, please remove all video replies to News section threads
+
 ### Mapping and Modding
 
 * __Images and Videos__
