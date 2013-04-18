@@ -65,7 +65,7 @@ rule break is worth 2 points or more.
 
 ### Specific
 
-* __Check their infraction history and don't stack informal warnings__
+* __Check infraction history and don't stack informal warnings__
 
   Before issuing an informal/infraction, you should always check a members infraction history. If a member has 1
 or more prior informals, it's time to give them a formal infraction. Informals exist both to remind members of the
@@ -92,14 +92,20 @@ As such, do not move hosting threads into this category. If the thread is not a 
 ### Minecraft Discussion
 
 * __Server Threads__
-* 
-* Hide and infract users for advertising server threads outside of the server section.  If the user is reletevely new (i.e < 10 posts) and has never recieved an infraction before, you can just give an informal; otherwise give a full infraction.  However, if a user has made a thread looking to join a server, move that thread to the Looking For section.
+
+  Hide and infract users for advertising server threads outside of the server section.  If the user is reletevely
+new (i.e < 10 posts) and has never recieved an infraction before, you can just give an informal; otherwise give
+a full infraction.  However, if a user has made a thread looking to join a server, move that thread to the Looking
+For section.
  
 * __Redundant Suggestions__
-* Lock and provide a link to the previous topic in the lock message.  Utilize the "Common Suggestions" thread that is pinned in the Suggestion section to find the links.
+
+  Lock and provide a link to the previous topic in the lock message.  Utilize the "Common Suggestions" thread
+that is pinned in the Suggestion section to find the links.
 
 * __Video Replies in News Section__
-* Per Sacheverell's request, please remove all video replies to News section threads
+
+  Per Sacheverell's request, please remove all video replies to News section threads
 
 ### Mapping and Modding
 
@@ -145,19 +151,7 @@ appropriate pinned thread.
   Do not reply to any messages you receive from parties involved with Minecraft such as Mojang, Microsoft or 4J Studios.
 Add citricsquid to the conversation instead allowing him to deal with it in an appropriate manner.
 
-* __Dealing with misplaced Multiplayer threads__
-
-  If a server, session or mini-game thread is posted outside of the Multiplayer section, please remove the
-thread and, if it's a first offense, informal with the reason: "server thread wrong section". If it's their
-second, go ahead and formally warn.
-  
-  Misplaced "Looking For / Build Help" or clan threads, providing they are not duplicates, should be moved
-to the appropriate section.
-  
-  Server, session or mini-game threads posted in the wrong section within the Multiplayer section should be
-moved to the correct category. If the thread is a duplicate, hide as normal.
-
-* __PE Texture packs require the authors permission__
+* __Pocket Edition: Texture packs require the authors permission__
 
   Threads posted within the MCPE: Texture Packs section must include permission from the original artist if
 porting a PC texture pack created by another user. If a member does not have permission you should give the user
@@ -169,7 +163,7 @@ an infraction for "Stolen Content".
 and you must include a copy of that permission in your topic -- for example if permission was granted via PM,
 a quote of the PM must be embedded in your post.</code></pre>
 
-* __Xbox 360 modification threads__
+* __Xbox 360: modification threads__
 
   Threads regarding the modification of Xbox 360 whether they be map downloads, tools for modification etc.
 should result in a one point infraction (Informal on first offence) given to the offending user.
@@ -209,10 +203,109 @@ associated with the Service or with an Authorized Device, from time to time with
 automatic download of related software directly to your Authorized Device, including software that prevents you
 from accessing the Service, playing pirated games, or using unauthorized hardware peripheral devices.[/spoiler]</code></pre>
 
-* __Xbox 360 glitching is not allowed__
+* __Xbox 360: glitching is not allowed__
 
   Any threads detailing how to perform any duplication glitches within Minecraft: Xbox Edition should be hidden
 and the user should receive an informal infraction notifying them that such posts aren't accepted.
+
+* __Suggestion sections__
+
+  - **Wishlists**
+
+  Members who post suggestion threads with the sole purpose of gathering ideas and suggestions from other members
+should have their threads locked for encouraging wishlisting.
+
+  *Example lock message:*
+  
+  "Please do not post more than one suggestion per thread. Very closely related suggestions are fine, but separate
+suggestions require separate threads. Wishlists will be closed or deleted."
+
+  - **Small suggestions**
+
+  Suggestions that are very small and don't require a brand new thread should be locked and pointed to the respective
+[Xbox 360 small suggestions thread](http://www.minecraftforum.net/topic/1690852-) or
+[Pocket Edition small suggestions thread](http://www.minecraftforum.net/topic/1690834-).
+
+  *Example lock message:*
+  
+  "If your suggestion is a small one, please use the 
+[Small Xbox 360 Edition Suggestions thread](http://www.minecraftforum.net/topic/1690852-)."
+
+  - **Vague suggestions**
+
+  Similarly, topics which are vague, lacking detail and offer little to no discussion should be locked. Again,
+if the idea is small one, please link to the appropriate small suggestions thread.
+
+  *Example lock message:*
+  
+  "Please ensure your suggestions are clear, concise and fleshed out. Topics which are vague and/or lacking detail
+will be locked. If your suggestion is a small one, please use the 
+[Small Suggestions thread](http://www.minecraftforum.net/topic/654104-)."
+
+  - **Redundancy**
+
+  If a suggestion/idea covers exactly the same subject as a previous suggestion thread - and isn't significantly
+different in detail - please lock the thread and reply with both the lock reason and a
+[link to an existing relevant, active topic](http://www.minecraftforum.net/topic/1665843-).
+
+  *Example lock message:*
+  
+  "This idea has been suggested before [here]. Please do not post redundant threads. Always browse the current threads
+in the forum and use the forums "Search" function at the top of the page before posting. Replying to older threads to
+continue discussion and share ideas is acceptable."
+
+* __Multiplayer sections__
+
+  - **Misplaced server, session and minigame threads**
+  
+  If a server, session or mini-game thread is posted outside of the Multiplayer section, please remove the thread
+and, if it's a first offense, informal with the reason: "server thread wrong section". If it's their second, go
+ahead and formally warn.
+
+  - **Misplaced "Looking For / Build Help" and clan threads**
+
+  If a "Looking For / Build Help" or clan thread is posted outside of the Multiplayer section, providing the thread
+is not a duplicate, move the thread to the appropriate Multiplayer section.
+
+  - **Misplaced threads within the Multiplayer section**
+
+  If a server, session or mini-game thread is posted in the wrong section within the Multiplayer section, move it
+to the right category. If the thread is a duplicate, hide as normal.
+
+* __Pocket Edition: Mapping and Modding__
+
+  The [root of Mapping and Modding](http://www.minecraftforum.net/forum/229-mcpe-mapping-and-modding/) is free for all
+MCPE: M&M threads which don't fit into either the maps, texture packs or mods / tools sections.
+
+  Examples of threads that can exist in the MCPE M&M root:
+  - Mod/tools discussion / creation / support threads.
+  - Texture pack discussion / creation / support threads.
+  - Map discussion discussion / creation / support threads.
+  - MCPE M&M related tutorials.
+  - Anything else MCPE M&M related that isn't specifically a mod, tool, texture pack or map.
+
+  Exceptions:
+
+  Compliment threads referring to an existing M&M thread in one of the sub-sections should be locked and pointed to
+the original mod/tool/map/texture pack thread.
+
+* __Xbox 360: Help and Support__
+
+  Please move the following threads to the Xbox 360
+[Help and Support section](http://www.minecraftforum.net/forum/230-mcx360-help-support/):
+  - Interface issues
+  - Technical questions
+  - Video recording questions
+
+  The exception to this rule is bug report threads. These, if confirmed, should generally be locked and pointed to
+the [Known bugs list thread](http://www.minecraftforum.net/topic/1679404-) as normal.
+
+* __Xbox 360: Seeds__
+
+  To avoid many, many locked/removed seeds threads within the Xbox 360 seeds sections, moderators are permitted to
+add the title update version tag. eg: [TU8], to the titles of threads that have are missing the title formatting.
+
+  Please be sure you're confident about the version the members seed thread is related to.
 
 ### Servers
 
