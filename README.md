@@ -151,63 +151,6 @@ appropriate pinned thread.
   Do not reply to any messages you receive from parties involved with Minecraft such as Mojang, Microsoft or 4J Studios.
 Add citricsquid to the conversation instead allowing him to deal with it in an appropriate manner.
 
-* __Pocket Edition: Texture packs require the authors permission__
-
-  Threads posted within the MCPE: Texture Packs section must include permission from the original artist if
-porting a PC texture pack created by another user. If a member does not have permission you should give the user
-an infraction for "Stolen Content".
-
-  Infraction message:
-  
-<pre><code>If you are porting a texture pack from another platform you must have permission from the original author
-and you must include a copy of that permission in your topic -- for example if permission was granted via PM,
-a quote of the PM must be embedded in your post.</code></pre>
-
-* __Xbox 360: modification threads__
-
-  Threads regarding the modification of Xbox 360 whether they be map downloads, tools for modification etc.
-should result in a one point infraction (Informal on first offence) given to the offending user.
-The most appropriate infraction reason at the moment would be "Other". Also the thread should be hidden.
-You may also wish to quote the below snippet from Microsoft's Terms of Service.
-
-  Infraction message:
-
-<pre><code>Maps conflict with Microsofts Terms of Service as they considered a modification to Minecraft: Xbox 360 Edition.
-Please do not post map threads, map installation support threads, looking for help with map threads or anything
-else which encourages members to break Microsofts ToS.
-
-If you wish to show off your video/creation, without the download link or promise/implication that the map will be
-released at a later date, please post in the MCX360: Creations section.
-
-[spoiler]14. Service Operation and Equipment.
-
-You may only access the Service with an Authorized Device or by logging into your account via the World Wide Web.
-You agree that: (i) you are using only authorized software and hardware to access the Service; (ii) your software
-and hardware have not been modified in any unauthorized way (e.g., through unauthorized repairs, unauthorized
-upgrades, or unauthorized downloads); and (iii) we have the right to send data, applications or other content to
-any software or hardware that you are using to access the Service for the express purpose of detecting an
-unauthorized modification.[b] You must not attempt to disassemble, decompile, create derivative works of, reverse
-engineer, modify, further sublicense, distribute, or use for other purposes the Service, any game, application,
-or other content available or accessible through the Service, or any hardware associated with the Service or with
-an Authorized Device[/b]. If you do so, we may cancel your account and your ability to access the Service, and
-pursue other legal remedies. We may take any legal action we deems appropriate against users who violate our systems
-or network security, this contract or any additional terms incorporated or referenced in this contract. Such users
-may also incur criminal or civil liability.
-
-We reserve complete and sole discretion with respect to the operation of the Service. We may, among other things:
-(i) restrict or limit access to the Service; (ii) retrieve information from the Authorized Device and any connected
-peripheral device used to log onto the Service as necessary to operate and protect the security of the Service, and
-to enforce this contract; and (iii) upgrade, modify, withdraw, suspend, or discontinue any functionality or feature
-of the Service, any game or other content available or accessible through the Service, or any hardware or software
-associated with the Service or with an Authorized Device, from time to time without notice. We may do so by the
-automatic download of related software directly to your Authorized Device, including software that prevents you
-from accessing the Service, playing pirated games, or using unauthorized hardware peripheral devices.[/spoiler]</code></pre>
-
-* __Xbox 360: glitching is not allowed__
-
-  Any threads detailing how to perform any duplication glitches within Minecraft: Xbox Edition should be hidden
-and the user should receive an informal infraction notifying them that such posts aren't accepted.
-
 * __Suggestion sections__
 
   - **Wishlists**
@@ -272,22 +215,16 @@ is not a duplicate, move the thread to the appropriate Multiplayer section.
   If a server, session or mini-game thread is posted in the wrong section within the Multiplayer section, move it
 to the right category. If the thread is a duplicate, hide as normal.
 
-* __Pocket Edition: Mapping and Modding__
+* __Xbox 360: modification threads__
 
-  The [root of Mapping and Modding](http://www.minecraftforum.net/forum/229-mcpe-mapping-and-modding/) is free for all
-MCPE: M&M threads which don't fit into either the maps, texture packs or mods / tools sections.
+  Threads regarding the modification of Xbox 360 whether they be map downloads, tools for modification etc.
+should be hidden and result in a one point infraction (Informal on first offence) given to the offending user.
+Please use the infraction reason: "Modification (MCX360)".
 
-  Examples of threads that can exist in the MCPE M&M root:
-  - Mod/tools discussion / creation / support threads.
-  - Texture pack discussion / creation / support threads.
-  - Map discussion discussion / creation / support threads.
-  - MCPE M&M related tutorials.
-  - Anything else MCPE M&M related that isn't specifically a mod, tool, texture pack or map.
+* __Xbox 360: glitching is not allowed__
 
-  Exceptions:
-
-  Compliment threads referring to an existing M&M thread in one of the sub-sections should be locked and pointed to
-the original mod/tool/map/texture pack thread.
+  Any threads detailing how to perform any duplication glitches within Minecraft: Xbox Edition should be hidden
+and the user should receive an informal infraction notifying them that such posts aren't accepted.
 
 * __Xbox 360: Help and Support__
 
@@ -306,6 +243,29 @@ the [Known bugs list thread](http://www.minecraftforum.net/topic/1679404-) as no
 add the title update version tag. eg: [TU8], to the titles of threads that have are missing the title formatting.
 
   Please be sure you're confident about the version the members seed thread is related to.
+
+* __Pocket Edition: Mapping and Modding__
+
+  The [root of Mapping and Modding](http://www.minecraftforum.net/forum/229-mcpe-mapping-and-modding/) is free for all
+MCPE: M&M threads which don't fit into either the maps, texture packs or mods / tools sections.
+
+  Examples of threads that can exist in the MCPE M&M root:
+  - Mod/tools discussion / creation / support threads.
+  - Texture pack discussion / creation / support threads.
+  - Map discussion discussion / creation / support threads.
+  - MCPE M&M related tutorials.
+  - Anything else MCPE M&M related that isn't specifically a mod, tool, texture pack or map.
+
+  Exceptions:
+
+  Compliment threads referring to an existing M&M thread in one of the sub-sections should be locked and pointed to
+the original mod/tool/map/texture pack thread.
+
+* __Pocket Edition: Texture packs require the authors permission__
+
+  Threads posted within the MCPE: Texture Packs section must include permission from the original artist if
+porting a PC texture pack created by another user. If a member does not have permission you should give the user
+an infraction for "Stolen Content (MCPE)".
 
 ### Servers
 
