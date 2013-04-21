@@ -273,6 +273,53 @@ an infraction for "Stolen Content (MCPE)".
 
 ### Show Your Creation
 
+* __Server threads__
+
+    Hide and infract users for advertising server threads outside of the server section. If the user is reletevely 
+new (i.e < 10 posts) and has never recieved an infraction before, you can just give an informal; otherwise give 
+a full infraction. However, if a user has made a thread looking to join a server, move that thread to the Looking 
+For section. If the user is looking for others to make a video with, and asks for a server alongside this, move it to
+Video/Series Help.
+
+* __Bumping__
+
+    If a user is bumping their video, livestream or artwork with an update such as new chapter for their story, announcing
+ that their livestream is live again or  sharing a new video, leave the post as it is. If the user adds information such
+ as "I'll make a new video tomorrow" or simply states "bump", remove and give an infraction for bumping. If it is their
+ first offense, feel free to give an informal infraction.
+
+* __Channel linking__
+
+    If a user simply links to their YouTube channel or a YouTube playlist, remove the thread and give an informal infraction
+ for channel linking. If the user has done this more than once, give a formal infraction using the "other" category.
+ 
+* __Videos not embedding__
+
+    If a user has managed to break the autoembedder, check the code in their post by using the edit button. If the link uses
+ https:// the video will not embed. Simply remove the s to make the link http:// to embed the video. Send the user a 
+ message to inform them of why the embed did not work. Do not remove the thread and do not give an infraction.
+ 
+* __Duplicate threads__
+ 
+    If a user is posting their threads across multiple sections, warn them for duplicate threads. If their thread could fit 
+in multiple sections, tell them to pick the one they feel is most relevant.
+
+* __Griefing threads__
+
+    Whether the thread is recruiting for griefers, or sharing videos or screenshots of the griefing, warn the user and hide
+ the thread. They usually lead to flaming. 
+ 
+* __Herobrine threads__
+
+    If the thread clearly states that Herobrine doesn't exist, and that the creation is simply fan art, leave the thread
+ and do not infract for it.
+ 
+* __Other games videos__
+
+    If a user posts a Terraria video thread, lock the topic and redirect the user to the 
+[Terraria Forums](http://www.terrariaonline.com/forum/). If a user posts a Cobalt video thread, lock the topic and redirect
+ the user to the [Cobalt Forums](http://www.cobaltforum.net/forum)
+
 ### Off Topic
 
 ## IRC
