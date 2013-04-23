@@ -322,6 +322,34 @@ in multiple sections, tell them to pick the one they feel is most relevant.
 
 ### Off Topic
 
+* __Minecraft related content__
+
+    Move all Minecraft related threads to their appropriate forum. Do not hide, lock, or send an infraction unless they
+  are also spamming, trolling, or breaking any other rule in addition to posting in the wrong section.
+  
+* __Selling, trading, and begging__
+
+    Hide and infract users for trading or selling accounts, games, or any other product. This includes requests for
+  products and begging. Do not hide posts or infract users who are simply giving out game codes for free unless they
+  are running a contest, using referral links, or otherwise advertising.
+    
+* __Video related threads__
+
+    Lock all video related discussion threads and redirect the user to the
+  [Video Receptacle Thread](http://www.minecraftforum.net/topic/1664815-video-receptacle-thread/). Do not infract the user
+  unless they repeatedly make video related threads.
+
+* __Forum game and roleplaying disruption__
+
+    Hide posts which disrupt forum game and roleplaying threads. If it's the first offense, send the user an informal warning.
+  Otherwise, send them an infraction.
+  
+* __OS / browser / console wars__
+
+    Lock all OS vs OS, browser vs browser, and console vs console threads. Hide and infract users who steer topics into
+  an OS / browser / console war. Do not hide or infract for posts that include comparisons but do not actually turn
+  the topic into a war.
+
 ## IRC
 
 Being on IRC is mandatory while moderating. This is to allow staff members to communicate quickly and efficiently
