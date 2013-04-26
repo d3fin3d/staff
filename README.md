@@ -50,7 +50,9 @@ a different category. This ensures members can easily find their post.
   Leaving a public edit message within "legal" posts is fine. This includes when fixing formatting, adding spoiler
   tags, etc. However, publically editing rule breaking posts can leave the poster humiliated and demoralised. To
   avoid this, ensure that you leave "Edited By" unchecked and that you don't publically brand the rule breaking
-  post as edited in any way. If you're editing out a rule break and the post needs to be infracted, make sure that
+  post as edited in any way.
+  
+  If you're editing out a rule break and the post needs to be infracted, make sure that
   you infract the post before making the edit - that way you'll store the original post within the infraction details.
 
 * __Hiding__
@@ -62,6 +64,9 @@ Feel free to ask an admin if you are unsure whether to hide/infract a post.
 
   Members with no previous infractions/informals should always receive an informal warning unless their first
 rule break is worth 2 points or more.
+
+  Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
+rules. Including smileys within infraction notices only serves to dilute the importance of the message.
 
 ### Specific
 
