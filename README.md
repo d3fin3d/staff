@@ -68,6 +68,18 @@ rule break is worth 2 points or more.
   Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
 rules. Including smileys within infraction notices only serves to dilute the importance of the message.
 
+  *Please note:* There are currently a couple of bugs with the infraction system:
+  
+  - Members who receive 2 infraction points or more are often suspended for longer than they should be. On top of this,
+informal warnings applied to an account with 2 or more existing points tend to wrongly trigger posting suspensions.
+In the event of this, please alert an admin in [IRC](#irc) to fix the suspension. If you receive no response within
+30 minutes, please head to the
+[Suspension Request Thread](http://www.minecraftforum.net/topic/1484957-suspension-request-thread/).
+  
+  - Infraction points don't always expire a month after the issuing date. In this case, please alert an admin
+in [IRC](#irc) to expire the infraction point(s). If you receive no response within 30 minutes, please head to the:
+[General Request Thread](http://www.minecraftforum.net/topic/300102-general-request-thread/).
+
 ### Specific
 
 * __Check infraction history and don't stack informal warnings__
@@ -405,7 +417,7 @@ Misrepresentation http://www.minecraftforum.net/topic/1384861-
 
 ### If no admins are available
 
-If you do not get a response from an admin within 20-30 minutes, please report to either:
+If you do not get a response from an admin within 30 minutes, please report to either:
 
 * __Spambot removals__ http://www.minecraftforum.net/topic/329156-how-to-deal-with-spammers-report-spammers-here/
 * __General requests__ http://www.minecraftforum.net/topic/300102-general-request-thread/
