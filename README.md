@@ -182,13 +182,14 @@ suggestions require separate threads. Wishlists will be closed or deleted."
 
   - **Small suggestions**
 
-  Suggestions that are very small and don't require a brand new thread should be locked and pointed to the respective
+  A small suggestion is defined as an idea that tweaks or changes an existing Minecraft: Edition feature in some way.
+Small suggestion threads should be locked and pointed to the respective
 [Xbox 360 small suggestions thread](http://www.minecraftforum.net/topic/1690852-) or
 [Pocket Edition small suggestions thread](http://www.minecraftforum.net/topic/1690834-).
 
   *Example lock message:*
   
-  "If your suggestion is a small one, please use the 
+  "As your suggestion is a small one, regarding a change to an existing Minecraft feature, please use the 
 [Small Xbox 360 Edition Suggestions thread](http://www.minecraftforum.net/topic/1690852-)."
 
   - **Vague suggestions**
