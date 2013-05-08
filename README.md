@@ -104,6 +104,12 @@ infract for "Server thread (wrong section)". If it's a first offense, informal.
   Minecraft server host threads are carefully vetted before being moved into the "Minecraft Server Hosting" section.
 As such, do not move hosting threads into this category. If the thread is not a duplicate, move it to "Other Hosts".
 
+* __Do not move threads into any of the "Tutorials and FAQs" sections__
+
+  Tutorials and FAQ threads are carefully vetted before being moved into one of the "Tutorials and FAQs" sections.
+As such, do not move these types of threads into any of the Tutorials and FAQs sections. If the thread is not a
+duplicate, move it to "Contact Forum Administration".
+
 ## Sectional Moderation
 
 ### Minecraft Discussion
