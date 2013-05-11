@@ -47,13 +47,13 @@ a different category. This ensures members can easily find their post.
 
 * __Editing__
 
-  Leaving a public edit message within "legal" posts is fine. This includes when fixing formatting, adding spoiler
-  tags, etc. However, publically editing rule breaking posts can leave the poster humiliated and demoralised. To
-  avoid this, ensure that you leave "Edited By" unchecked and that you don't publically brand the rule breaking
-  post as edited in any way.
+  When editing a post do not ever tick the "Show 'edit by' line" box, "Reason for edit" messages should always
+  remain private between staff and not be displayed publicly with posts. Moderators are welcome to edit posts
+  to fix minor problems (for example formatting issues) however announcing this to other users is not allowed
+  as it can derail discussion when people pick up on it and makes the forum look messy. 
   
-  If you're editing out a rule break and the post needs to be infracted, make sure that
-  you infract the post before making the edit - that way you'll store the original post within the infraction details.
+  If you're editing out a rule break and the post needs to be infracted, make sure that you infract the post 
+  before making the edit - that way you'll store the original post within the infraction details.
 
 * __Hiding__
 
