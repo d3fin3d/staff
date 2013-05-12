@@ -57,8 +57,10 @@ a different category. This ensures members can easily find their post.
 
 * __Hiding__
 
-  If a thread is breaking a rule, it should be hidden. Hidden threads should almost always be infracted/informalled.
-Feel free to ask an admin if you are unsure whether to hide/infract a post.
+  If a thread or post is breaking a rule, it should be hidden. Hidden threads/posts should almost always be
+  infracted/informalled. If you've hidden a post, any subsequent replies to or quotes of the rule breaking post
+  should also be hidden, however they should only be infracted/informalled if they have broken a rule.
+  Feel free to ask an admin if you are unsure whether to hide/infract a post.
 
 * __Infracting__
 
