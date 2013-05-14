@@ -191,18 +191,10 @@ that is pinned in the Suggestion section to find the links.
   decompile it, read the code, see if it is the same. Don't assume. If the content is the same, then warn for that. 
   If the content is modified, then make sure the original does have a copyright that does say that they can do that.
   
-* __Embedded Images__
-
-  For this, if they include links to an image, then edit the post and embed it for them, then PM then the guides on how 
-  to do it so they know how it is done for future reference. If they do not include them, then you need to think. 
-  If the user is new, be nice and just tell them they need include images (via an informal warning). 
-  If you come back to the thread later and they have done it after a few hours, then hide the thread. 
-  If they have been told before about it before, and it was some time ago, then just informal the again. Remind them. 
-  You should rarely have a reason to give a point for this.
-  
 * __SMP Hacks and Cheats__
 
   The entire topic about this is here: [Regarding SMP "cheats" -- An updated policy](http://www.minecraftforum.net/topic/1561678-)
+  
   SMP Hacks and cheats are allowed, however any designed for griefing are not allowed.
 
 ### MCX360, MCPE and Other Platforms
