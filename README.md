@@ -82,6 +82,17 @@ In the event of this, please alert an admin in [IRC](#irc) to fix the suspension
 in [IRC](#irc) to expire the infraction point(s). If you receive no response within 30 minutes, please head to the:
 [General Request Thread](http://www.minecraftforum.net/topic/300102-general-request-thread/).
 
+  Along with reporting an erroneous suspension, it's good practice to correct the suspension date at the bottom
+  of the infraction private message. Amending this date is helpful in avoiding unnecessary explainations at a
+  later date. For example, in the case of a 7 day suspension issued on the 20th of May being inaccurately processed
+  as a 10 day suspension, change:
+
+  *You will be unable to post until May 30, 2013 5:46 AM UTC+0.*
+  
+  to
+  
+  *You will be unable to post until May 27, 2013 5:46 AM UTC+0.*
+
 ### Specific
 
 * __Check infraction history and don't stack informal warnings__
@@ -488,14 +499,14 @@ If ever in doubt, always ask before making "official" sounding statements.
 of servers that you admin/moderate/help out with, infraction disputes and replies to your posts. If there's any
 hint of a conflict of interest, please either report the rule break or refer the task to a fellow staff member.
 
-* __Don't flame Mojang__
+* __Don't flame Mojang or their partners__
 
-  Mojang are the reason we're here. They publically consider minecraftforum.net the "official" forums and have
-given us, an external website, the responsibility of being the primary location for all Minecraft related
-discussion. Therefore, by association, your position will be considered affiliated with Mojang. As such, do not
-flame Mojang, their employees, their products or their actions. Feel free to offer your balanced opinion, but
-if you feel a burning desire to express criticism, contempt or insult towards Mojang, please use an account
-that's not connected to the MCF staff group.
+  Mojang and co. are the reason we're here. They publically consider minecraftforum.net the "official" forums and have
+given us, an external website, the responsibility of being the primary location for all Minecraft related discussion.
+Therefore, by association, your position will be considered affiliated with Mojang and co. As such, do not flame
+Mojang, their partners, their employees, their products or their actions. Feel free to offer your balanced opinion,
+but if you feel a burning desire to express criticism, contempt or insult towards Minecraft's creators, please use an
+account that's not connected to the MCF staff group.
 
 * __Behave well everywhere else too__
 
