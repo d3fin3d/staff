@@ -174,6 +174,36 @@ that is pinned in the Suggestion section to find the links.
  
   Sites that redistribute mods, whether by rehosting the files or by linking the original topic or download links, are not allowed.
   Such sites are not permitted and should be warned for advertising.
+  
+* __Outdated Mods__
+
+  Where there is a new update made to Minecraft, we use the build that it is, so 1.1,1.2, 1.3, 1.4, not 1.2.5, 1.3, 1.3.2.
+  If a mod is 3 builds behind (so like 1.1 when 1.4 is released) then lock the thread and PM the thread owner that their thread was 
+  locked and that they can have it unlocked if they want to update the mod.
+  If a mod is 2 builds behind, do not lock it for now. Because the update is soon, any mod not updated will not update to the current build and just wait for the next version. Just leave those.
+  Simply put, any mod before 1.2 can be lock IF someone posts on it asking for updates to it. Mods for 1.2 and up are not to be locked unless the OP requests it. 
+  
+* __Stolen Content__
+
+  This is not a simple look at a thread thing. If someone claims the work is stolen, and provides a link to the content 
+  it may have been stolen from, then you need to investigate. This means you download it and you look at everything. 
+  Texture packs, look at all the files, mods, read the code, maps, open the maps in Minecraft or something, mods, 
+  decompile it, read the code, see if it is the same. Don't assume. If the content is the same, then warn for that. 
+  If the content is modified, then make sure the original does have a copyright that does say that they can do that.
+  
+* __Embedded Images__
+
+  For this, if they include links to an image, then edit the post and embed it for them, then PM then the guides on how 
+  to do it so they know how it is done for future reference. If they do not include them, then you need to think. 
+  If the user is new, be nice and just tell them they need include images (via an informal warning). 
+  If you come back to the thread later and they have done it after a few hours, then hide the thread. 
+  If they have been told before about it before, and it was some time ago, then just informal the again. Remind them. 
+  You should rarely have a reason to give a point for this.
+  
+* __SMP Hacks and Cheats__
+
+  The entire topic about this is here: [Regarding SMP "cheats" -- An updated policy](http://www.minecraftforum.net/topic/1561678-)
+  SMP Hacks and cheats are allowed, however any designed for griefing are not allowed.
 
 ### MCX360, MCPE and Other Platforms
 
