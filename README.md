@@ -435,6 +435,16 @@ If you require the attention of an admin within #forum, please use the following
   EG: Alt: http://www.minecraftforum.net/user/424279-d3fin3d/ Main: http://www.minecraftforum.net/user/424279-d3fin3d/
 Misrepresentation http://www.minecraftforum.net/topic/1384861-
 
+* __Admin: (type) (link)__
+
+  Used for all other requests:
+
+  EG: Admin: NSFW avatar: http://www.minecraftforum.net/user/424279-d3fin3d/
+  
+  EG: Admin: Profanity within signature: http://www.minecraftforum.net/user/424279-d3fin3d/
+  
+  EG: Admin: Infraction didn't expire: http://www.minecraftforum.net/user/424279-d3fin3d/
+
 ### If no admins are available
 
 If you do not get a response from an admin within 30 minutes, please report to either:
