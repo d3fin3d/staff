@@ -521,8 +521,11 @@ seriously, especially considering the public representative position that staff 
 
 ## Apparatus
 
-A number of things to keep in mind when voting and commenting on moderator applications, as these really help us
-out when deciding on potential new staff members.
+As a Minecraft Forums staff member you are encouraged to look through, comment and vote on moderator applications.
+Please [log into Apparatus](http://apparatus.mcf.li/) using your existing MCF login details.
+
+There are a number of things to keep in mind when voting and commenting on moderator applications. Please bear the
+following points in mind as they really help us out when deciding on potential new staff members.
 
 * __Voting__
 
@@ -582,7 +585,8 @@ little thing you don't like.
 
 * __Do not give members application advice__
 
-   We want to see what people have to say about themselves, not what other people have advised them to say.
+   Please do not give moderator applicants any sort of advice or guidance. We want to see what people have to say about
+   themselves, not what other people have advised them to say.
 
 
 [Return to top](#staff-guidelines)
