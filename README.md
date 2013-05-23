@@ -70,6 +70,9 @@ rule break is worth 2 points or more.
   Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
 rules. Including smileys within infraction notices only serves to dilute the importance of the message.
 
+  Content that is no longer current should not be infracted. Rule breaking posts which are over 3 months old may still
+be edited or hidden where necessary however please do not issue an informal/infraction.
+
   *Please note:* There are currently a couple of bugs with the infraction system:
   
   - Members who receive 2 infraction points or more are often suspended for longer than they should be. On top of this,
