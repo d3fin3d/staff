@@ -19,6 +19,7 @@
   - [Optional channels](#optional-channels)
   - [Pinging an admin](#pinging-an-admin)
   - [If no admins are available](#if-no-admins-are-available)
+  - [IRC clients](#irc-clients)
 - [Etiquette](#etiquette)
 - [Apparatus](#apparatus)
   - [Applying to be a mod thread](#applying-to-be-a-mod-thread)
@@ -455,6 +456,22 @@ If you do not get a response from an admin within 30 minutes, please report to e
 * __Spambot removals__ http://www.minecraftforum.net/topic/329156-how-to-deal-with-spammers-report-spammers-here/
 * __General requests__ http://www.minecraftforum.net/topic/300102-general-request-thread/
 * __Suspension requests__ http://www.minecraftforum.net/topic/1484957-suspension-request-thread/
+
+### IRC clients
+
+It's highly beneficial to use an IRC client to connect to our various channels. Webchat, although convenient at times,
+is browser reliant with very minimal customisation and poor multi-channel support. Here is a list of popular IRC
+clients:
+
+* [__mIRC__](http://www.mirc.com/)
+
+* [__IceChat__](http://www.icechat.net/site/)
+
+* [__XChat SE__](http://xchat.servx.ru/)
+
+* [__HydraIRC__](http://www.hydrairc.com/)
+
+* [__Quassel__](http://quassel-irc.org/)
 
 ## Etiquette
 
