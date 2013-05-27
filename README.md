@@ -310,6 +310,90 @@ an infraction for "Stolen Content (MCPE)".
 
 ### Servers
 
+* __Keep up to date with watchlist__
+
+  Occasionally a server may wind up being so rule-breaking they end up on our 
+  [master watchlist](http://www.minecraftforum.net/topic/1169302-). Any server that ends up on there has shown 
+  total disregard of our rules, and are not allowed, or have strict rules. Please keep up to date with this 
+  list and watch for them.
+  
+* __Avoid posting in Minecraft Server Hosting__
+
+  Hosts are a competive group, and mods posting in the section supporting a specific host causes issues 
+  with them claiming bias. To avoid this, we prefer you either us a different account or avoid posting 
+  there altogether.
+
+* __Reports are not always right__
+
+  Just because it gets reported does not mean that the post is wrong. This is a common issue with hosts 
+  as some report anything and everything to try to punish hosts for things they really are not doing wrong.
+  Do not assume that a report is right. Read the post. Read the context. Then decide for yourself if it is
+  wrong or not.
+
+* __Doubleposting is not always bumping__ 
+
+  What this means is that just because a person posts twice in a row does not mean that it is wrong, nor
+  should they be punished for that. Double-posting where the posts are to be hidden and warned are for 
+  things like posting review replies one at a time. It is not their fault someone did not reply. If they 
+  have something to add about their host or server, then use your discretion to determine if it is a worthy update.
+
+* __Support posts are not allowed__ 
+
+  Pretty simple, posts related to support, whether the site, their server, or how to do something involving 
+  their server, is not allowed. Simply hide the post and informal them telling them support-related posts 
+  are not allowed on the host threads.
+
+* __Replies in Hosting Requests need something besides a copy-paste__ 
+
+  What we mean is the use of copy-paste is not allowed at all. Replies to requests must be specific to that 
+  thread's needs, if a host replies and does not meet the needs but tries to offer their services, this is not 
+  allowed. Example, if someone wants a tekkit host, repliers must be able to offer tekkit hosting. Another thing
+  is that replies that state "I have PM'ed you" or worded that way are not allowed. There is no reason to tell 
+  them that, and serves no purpose to the thread. Those are to be hidden and the poster informaled about it.
+
+* __Minecraft Server Hosting is restricted__ 
+ 
+  This section is specific and hosts must apply to get into this section. As a part of the application,
+  they must agree to an agreement that any mod should read before moderating in this specific section. 
+  The agreement may be found here. This agreement is very specific and does mention any violation of the 
+  rules will result in their termination. If a host is breaking rules, please inform one of the admins about 
+  it so that it can be looked at and determined if their agreement has been broken and if termination of their 
+  thread is needed. We have been a bit lienent on this, but this will change.
+
+* __Hosts that advertise must offer Minecraft server hosting__
+  
+  Hosts that wish to advertise in this section must offer some sort of Minecraft server hosting.
+  VPSes/dedis do count as long as they are comparing them to use for servers, just regular VPS/dedi
+  advertising is not allowed. If it becomes a problem, we will remove that part and only allow hosts to
+  advertise that offer server hosting with VPS/dedis not counting. If a host does offer server hosting, 
+  they may offer their other services in their thread as well, for example webhosting or VPSes.
+
+* __Hosting Requests is not for looking for staff__
+
+  Hosts may not use the Hosting Request section to look for new staff members, nor may they create a new 
+  thread in the Other Hosts section with this purpose. If they wish to look for new staff, they can either 
+  post this on their existing thread, or post a new thread in the Looking For section. Both of those are fine.
+
+* __Giveaways__
+
+  Hosts are permitted to offer giveaways, however there are restictions on this. They are not allowed to use 
+  their thread as an application collection point, nor make a new thread about their giveaway. They may post 
+  about their giveaway on their thread, but any applications must be sent either via PM or though an external 
+  source. They cannot use their thread to collect applications.
+
+* __Hosts must abide by any license or legal information__
+
+  This is not really worded well, but hosts must use legalized software on any part of their site. Examples of 
+  the most common illegal software is nulled WHMCS. If hosts use illegal software, then remove their thread and 
+  warn them that using illegal software is not allowed and that they are not permitted to advertise their site 
+  while they use such software. You can use this to see if they are using a valid copy of the WHMCS software.
+
+* __Do not lock host threads__
+
+  This is important. Do not lock any host thread, whether in the Other Hosts or the Minecraft Server Hosting 
+  section without prior permission by an admin. Threads may be locked without an admin's permission if the 
+  host requests it.
+
 ### Support
 
 ### Show Your Creation
