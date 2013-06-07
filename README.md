@@ -111,6 +111,12 @@ breaking the rules without consequence.
   If a post contains profanity, acronyms included, the word(s) should be edited out. If the profanity coincides 
 with any flaming or other rule breaking, please remove the post and infract as normal.
 
+* __Detecting malware__
+
+  If you come across a file or linked site that you suspect may be malicious, please scan it using either
+[VirusTotal](https://www.virustotal.com/en-gb/) or [Anubis](http://anubis.iseclab.org/) then report both the
+suspected thread/post and malware scan to [IRC](#irc).
+
 * __Misplaced server threads should be hidden__
 
   If a server thread is posted outside of the PC servers section, do not move it into servers. Hide the thread and
