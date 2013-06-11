@@ -16,7 +16,6 @@
   - [Off Topic](#off-topic)
 - [IRC](#irc)
   - [Using IRC: The Basics](#irc-basics)
-  - [Irc and Minecraftforum](#irc-and-minecraftforum)
   - [Mandatory channels](#mandatory-channels)
   - [Optional channels](#optional-channels)
   - [Pinging an admin](#pinging-an-admin)
@@ -510,6 +509,11 @@ in multiple sections, tell them to pick the one they feel is most relevant.
 Being on IRC is mandatory while moderating. This is to allow staff members to communicate quickly and efficiently
 with one another in case any issues arrise.
 
+__Ask in IRC before heading to the forums__
+
+  If you have any questions or requests, always ask within IRC first. There are many helpful staff members lurking
+who are ready and able to help answer any queries you may have.
+
 ### IRC Basics
 
 * __Register your nickname__
@@ -534,13 +538,6 @@ In the #forum and #minecraftforums channel, voice represent the moderators for M
 
 Op is similar to that of admin on a forum. Ops are able to kick and ban users, along with voicing and oping others.
 In the #forum and #minecraftforums channel, op represent the admins for Minecraftforum.
-
-### IRC and Minecraftforum
-
-* __Ask in IRC before heading to the forums__
-
-  If you have any questions or requests, always ask within IRC first. There are many helpful staff members lurking
-who are ready and able to help answer any queries you may have.
 
 ### Mandatory channels
 
