@@ -15,6 +15,8 @@
   - [Show Your Creation](#show-your-creation)
   - [Off Topic](#off-topic)
 - [IRC](#irc)
+  - [Using IRC: The Basics](#irc-basics)
+  - [Irc and Minecraftforum](#irc-and-minecraftforum)
   - [Mandatory channels](#mandatory-channels)
   - [Optional channels](#optional-channels)
   - [Pinging an admin](#pinging-an-admin)
@@ -507,6 +509,33 @@ in multiple sections, tell them to pick the one they feel is most relevant.
 
 Being on IRC is mandatory while moderating. This is to allow staff members to communicate quickly and efficiently
 with one another in case any issues arrise.
+
+### IRC Basics
+
+* __Register your nickname__
+
+Your nickname is for you. By registering yor nickname, you can claim that name on the Esper network so that only you 
+can use it. To register your nick, use the following command:
+/msg nickserv register password email
+Follow the directions that NickServ will send you to complete the registeration.
+
+To identify (log in) to your nick, join IRC with that nick and use the following command:
+/msg nickserv identify password
+
+If your nickname is in use by someone else and you have already registered it, you can use this command to kick that user
+off the Esper network so you can then use it:
+/msg nickserv ghost nick password
+
+* __Voice and Op__
+
+Voice is similar to that of moderator on a forum. On IRC, voice only shows your name above others in the user list.
+In the #minecraftforums channel, voiced users usually are also able to kick.
+In the #forum and #minecraftforums channel, voice represent the moderators for Minecraftforum.
+
+Op is similar to that of admin on a forum. Ops are able to kick and ban users, along with voicing and oping others.
+In the #forum and #minecraftforums channel, op represent the admins for Minecraftforum.
+
+### IRC and Minecraftforum
 
 * __Ask in IRC before heading to the forums__
 
