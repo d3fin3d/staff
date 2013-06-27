@@ -1,6 +1,6 @@
 # Staff Guidelines
 
-These guidelines are for staff members of minecraftforum.net.
+These guidelines apply to all minecraftforum.net staff members.
 
 ## Moderation
 
