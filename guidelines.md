@@ -57,12 +57,12 @@ be edited or hidden where necessary however please do not issue an informal/infr
   
   - Members who receive 2 infraction points or more are often suspended for longer than they should be. On top of this,
 informal warnings applied to an account with 2 or more existing points tend to wrongly trigger posting suspensions.
-In the event of this, please alert an admin in [IRC](#irc) to fix the suspension. If you receive no response within
+In the event of this, please alert an admin in [IRC](#staff-guidelines:irc) to fix the suspension. If you receive no response within
 30 minutes, please head to the
 [Suspension Request Thread](http://www.minecraftforum.net/topic/1484957-suspension-request-thread/).
   
   - Infraction points don't always expire a month after the issuing date. In this case, please alert an admin
-in [IRC](#irc) to expire the infraction point(s). If you receive no response within 30 minutes, please head to the:
+in [IRC](#staff-guidelines:irc) to expire the infraction point(s). If you receive no response within 30 minutes, please head to the:
 [General Request Thread](http://www.minecraftforum.net/topic/300102-general-request-thread/).
 
   Along with reporting an erroneous suspension, it's good practice to correct the suspension date at the bottom
@@ -94,7 +94,7 @@ with any flaming or other rule breaking, please remove the post and infract as n
 
   If you come across a file or linked site that you suspect may be malicious, please scan it using either
 [VirusTotal](https://www.virustotal.com/en-gb/) or [Anubis](http://anubis.iseclab.org/) then report both the
-suspected thread/post and malware scan to [IRC](#irc).
+suspected thread/post and malware scan to [IRC](#staff-guidelines:irc).
 
 * __Misplaced server threads should be hidden__
 
@@ -155,9 +155,9 @@ that is pinned in the Suggestion section to find the links.
   If you come across a suspicious file, please get it scanned. 
   If you need to hide the topic for a little bit to avoid users from running it, please do.
   The most common scan sites we use are [Virustotal](http://virustotal.com) and [Anubis](http://anubis.iseclab.org/).
-  Malware is a perm-ban and should be reported in #forum using the [Pinging an admin](#pinging-an-admin) template for malware.
+  Malware is a perm-ban and should be reported in #forum using the [Pinging an admin](#staff-guidelines:pinging-an-admin) template for malware.
   Lastlogin stealers and backdoor plugin or mods are not a perm-ban on the first offense, so use the Malware warn template.
-  On the second offense, follow the [Pinging an admin](#pinging-an-admin) Malware template to have the account banned.
+  On the second offense, follow the [Pinging an admin](#staff-guidelines:pinging-an-admin) Malware template to have the account banned.
   
 * __Mod Sites__
  
