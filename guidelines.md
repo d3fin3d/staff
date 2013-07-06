@@ -134,7 +134,22 @@ that is pinned in the Suggestion section to find the links.
 
 ### Mapping and Modding
 
-* __Images and Videos__
+* __Resource Packs__
+
+  Because of the 1.6 release, the Texture Pack section is altered to accommodate resource packs. 
+  The [Texture and Resource Pack](http://www.minecraftforum.net/forum/41-texture-and-resource-packs/) section is 
+  for where any released texture or resource pack may go. Texture packs still require images, however resource packs
+  that are just sound-changes do not require images. If the resource pack provides new or altered textures, then images
+  must be included. 
+  Discussion of textures or sounds go into their respectful discssion section, while support goes into the 
+  [Resource Pack Help](www.minecraftforum.net/forum/252-resource-pack-help/) section.
+  
+* __Sounds_
+
+  Sounds that are inappropriate or vulgar are to be removed and a 1-point infraction issued. Any and all parts of a 
+  resource pack must be appropriate.
+
+* __Images and Videos (for topics that require them)__
 
   If a topic does not have images or videos embedded, but does have them linked in the topic, edit the post and embed them for them.
   If a topic does not have images or videos at all, then informal them reminding them of that, and leave the topic for them to fix. 
