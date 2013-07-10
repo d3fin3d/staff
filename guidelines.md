@@ -541,7 +541,7 @@ removals, spambots, malware and misused alt accounts.
 
 * __#mcf_(section)__
   
-  Your section specific IRC channel. EG: #mcf_md, #mcf_mnm, #mcf_platforum #mcf_servers, #mcf_support, #mcf_syc, #mcf_ot
+  Your section specific IRC channel. EG: #mcf\_md, #mcf\_mnm, #mcf\_platforum #mcf\_servers, #mcf\_support, #mcf\_syc, #mcf\_ot
 
 ### Optional channels
 
