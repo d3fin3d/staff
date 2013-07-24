@@ -12,6 +12,12 @@ provided via the GitHub issues system in the GitHub repository: <https://github.
   Never moderate from a phone/tablet device. Not only are infractions issued incorrectly when using a mobile device,
 but general moderation is trickier and errors far more frequent. Only moderate from a desktop or laptop computer.
 
+* __Proactive moderation__
+
+  It's important to remember that, although useful, reports only account for very small percentage of rule breaks
+on MCF. Ultimately, proactive moderation is far more beneficial to the forum than just dealing with reports. Make
+sure reports aren't piling up but also remember that the vast majority of rule breaking content goes unreported.
+
 ### Tools
 
 * __Locking__
