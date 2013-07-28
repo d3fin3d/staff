@@ -50,14 +50,22 @@ a different category. This ensures members can easily find their post.
 
 * __Infracting__
 
-  Members with no previous infractions/informals should always receive an informal warning unless their first
+  * Members with no previous infractions/informals should always receive an informal warning unless their first
 rule break is worth 2 points or more.
 
-  Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
+  * Do not stack infractions for related content. If a member pastes the same rule breaking content numerous times in
+quick succession, infract them once only. If they continue breaking the same rule after their infraction, infract again.
+If a member breaks two rules within one post, infract once but add both reasons into the infraction message. Similarly,
+if a member breaks rules on two separate occasions within the same thread, again infract once but add both reasons
+into the infraction message. An exception should be made to these guidelines if any rule breaks are worth 2 points or
+more.
+
+  * Content that is no longer current should not be infracted. Rule breaking posts which are over 3 months old may still
+be edited or hidden where necessary however please do not issue an informal/infraction.
+
+  * Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
 rules. Including smileys within infraction notices only serves to dilute the importance of the message.
 
-  Content that is no longer current should not be infracted. Rule breaking posts which are over 3 months old may still
-be edited or hidden where necessary however please do not issue an informal/infraction.
 
   *Please note:* There are currently a couple of bugs with the infraction system:
   
@@ -95,6 +103,14 @@ breaking the rules without consequence.
 
   If a post contains profanity, acronyms included, the word(s) should be edited out. If the profanity coincides 
 with any flaming or other rule breaking, please remove the post and infract as normal.
+
+* __Spambots vs. legitimate members__
+
+  It's important to differentiate between spambots and legitimate members. Typically, spambots post streaming/pirated
+content adverts with generic text and keywords. Similarly, there are spambots which exist solely to copy/paste content
+submitted by other people. Both of these examples should be reported to #forum. However, members that spam giftcode,
+MSpoints, referral and affiliate links are usually real people fooled into believing they are able to acquire Minecraft
+for free this way. Please infract such users as normal.
 
 * __Detecting malware__
 
