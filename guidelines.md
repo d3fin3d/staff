@@ -437,6 +437,20 @@ an infraction for "Stolen Content (MCPE)".
   This is important. Do not lock any host thread, whether in the Other Hosts or the Minecraft Server Hosting 
   section without prior permission by an admin. Threads may be locked without an admin's permission if the 
   host requests it.
+  
+* __Bumping and how to handle__
+
+  Bumping is now going to be handled more severely now. Instead of the weak side that it was before, it is 
+  going to be more harsh.
+  If a user starts to bump, or does it a few times, then give them an informal.
+  If a user bumps about 10, give the light infraction.
+  If a user bumps about 20 times, give the medium infraction.
+  If they do it more than that, give the heavy.
+  
+  Also be sure to *check their history*. If they have already been warned about it before, then use the next 
+  level infraction (instead of light, use medium, for example).
+  
+  If they continue this after 2 infractions, then ping an admin to have a harsher punishment inflicted.
 
 ### Support
 
