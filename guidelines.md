@@ -60,7 +60,7 @@ if a member breaks rules on two separate occasions within the same thread, again
 into the infraction message. An exception should be made to these guidelines if any rule breaks are worth 2 points or
 more.
 
-  * Content that is no longer current should not be infracted. Rule breaking posts which are over 3 months old may still
+  * Content that is no longer current should not be infracted. Rule breaking posts which are over a month old may still
 be edited or hidden where necessary however please do not issue an informal/infraction.
 
   * Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
@@ -166,7 +166,7 @@ that is pinned in the Suggestion section to find the links.
   Discussion of textures or sounds go into their respectful discssion section, while support goes into the 
   [Resource Pack Help](www.minecraftforum.net/forum/252-resource-pack-help/) section.
   
-* __Sounds_
+* __Sounds__
 
   Sounds that are inappropriate or vulgar are to be removed and a 1-point infraction issued. Any and all parts of a 
   resource pack must be appropriate.
@@ -437,6 +437,19 @@ an infraction for "Stolen Content (MCPE)".
   This is important. Do not lock any host thread, whether in the Other Hosts or the Minecraft Server Hosting 
   section without prior permission by an admin. Threads may be locked without an admin's permission if the 
   host requests it.
+  
+* __Bumping and how to handle__
+
+  Bumping is now going to be handled more severely now. Instead of the weak side that it was before, it is 
+  going to be more harsh.
+  If a user starts to bump, then give a light infraction.
+  If a user bumps about 20 times, give the medium infraction.
+  If they do it more than that, give the heavy.
+  
+  Also be sure to *check their history*. If they have already been warned about it before, then use the next 
+  level infraction (instead of light, use medium, for example).
+  
+  If they continue this after 2 infractions, then ping an admin to have a harsher punishment inflicted.
 
 ### Support
 
