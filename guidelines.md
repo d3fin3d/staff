@@ -60,7 +60,7 @@ if a member breaks rules on two separate occasions within the same thread, again
 into the infraction message. An exception should be made to these guidelines if any rule breaks are worth 2 points or
 more.
 
-  * Content that is no longer current should not be infracted. Rule breaking posts which are over 3 months old may still
+  * Content that is no longer current should not be infracted. Rule breaking posts which are over a month old may still
 be edited or hidden where necessary however please do not issue an informal/infraction.
 
   * Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
@@ -166,7 +166,7 @@ that is pinned in the Suggestion section to find the links.
   Discussion of textures or sounds go into their respectful discssion section, while support goes into the 
   [Resource Pack Help](www.minecraftforum.net/forum/252-resource-pack-help/) section.
   
-* __Sounds_
+* __Sounds__
 
   Sounds that are inappropriate or vulgar are to be removed and a 1-point infraction issued. Any and all parts of a 
   resource pack must be appropriate.
