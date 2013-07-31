@@ -442,8 +442,7 @@ an infraction for "Stolen Content (MCPE)".
 
   Bumping is now going to be handled more severely now. Instead of the weak side that it was before, it is 
   going to be more harsh.
-  If a user starts to bump, or does it a few times, then give them an informal.
-  If a user bumps about 10, give the light infraction.
+  If a user starts to bump, then give a light infraction.
   If a user bumps about 20 times, give the medium infraction.
   If they do it more than that, give the heavy.
   
