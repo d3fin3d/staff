@@ -33,10 +33,10 @@ a different category. This ensures members can easily find their post.
 
 * __Editing__
 
-  When editing a post do not ever tick the "Show 'edit by' line" box, "Reason for edit" messages should always
-  remain private between staff and not be displayed publicly with posts. Moderators are welcome to edit posts
+  When editing a post never tick the "Show 'edit by' line" box. "Reason for edit" messages should always
+  remain private between staff and not be displayed publicly within posts. Moderators are welcome to edit posts
   to fix minor problems (for example formatting issues) however announcing this to other users is not allowed
-  as it can derail discussion when people pick up on it and makes the forum look messy. 
+  as it can both derail discussions and make the forum look messy. 
   
   If you're editing out a rule break and the post needs to be infracted, make sure that you infract the post 
   before making the edit - that way you'll store the original post within the infraction details.
@@ -101,8 +101,9 @@ breaking the rules without consequence.
 
 * __Dealing with profanity__
 
-  If a post contains profanity, acronyms included, the word(s) should be edited out. If the profanity coincides 
-with any flaming or other rule breaking, please remove the post and infract as normal.
+  If a post contains profanity, acronyms and self-censorship included, the content should be infracted for then the
+word(s) edited out. If the profanity coincides with flaming or any other rule breaks, please remove the entire post
+and include both infraction reasons in your infraction message.
 
 * __Spambots vs. legitimate members__
 
