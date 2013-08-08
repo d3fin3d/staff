@@ -101,8 +101,9 @@ breaking the rules without consequence.
 
 * __Dealing with profanity__
 
-  If a post contains profanity, acronyms included, the word(s) should be edited out. If the profanity coincides 
-with any flaming or other rule breaking, please remove the post and infract as normal.
+  If a post contains profanity, acronyms included, informal the user if the word is not censorable and they have no 
+  previous profanity infractions, otherwise use the Censor Evasion infraction. If the profanity coincides with any 
+  flaming or other rule breaking, please remove the post and infract as normal.
 
 * __Spambots vs. legitimate members__
 
