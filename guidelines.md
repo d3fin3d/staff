@@ -33,10 +33,10 @@ a different category. This ensures members can easily find their post.
 
 * __Editing__
 
-  When editing a post do not ever tick the "Show 'edit by' line" box, "Reason for edit" messages should always
-  remain private between staff and not be displayed publicly with posts. Moderators are welcome to edit posts
+  When editing a post never tick the "Show 'edit by' line" box. "Reason for edit" messages should always
+  remain private between staff and not be displayed publicly within posts. Moderators are welcome to edit posts
   to fix minor problems (for example formatting issues) however announcing this to other users is not allowed
-  as it can derail discussion when people pick up on it and makes the forum look messy. 
+  as it can both derail discussions and make the forum look messy.
   
   If you're editing out a rule break and the post needs to be infracted, make sure that you infract the post 
   before making the edit - that way you'll store the original post within the infraction details.
@@ -101,9 +101,9 @@ breaking the rules without consequence.
 
 * __Dealing with profanity__
 
-  If a post contains profanity, acronyms included, informal the user if the word is not censorable and they have no 
-  previous profanity infractions, otherwise use the Censor Evasion infraction. If the profanity coincides with any 
-  flaming or other rule breaking, please remove the post and infract as normal.
+  If a post contains profanity, acronyms and self-censorship included, the content should be infracted for then the
+word(s) edited out. If the profanity coincides with flaming or any other rule breaks, please remove the entire post
+and include both infraction reasons in your infraction message.
 
 * __Spambots vs. legitimate members__
 
@@ -591,38 +591,38 @@ If you require the attention of an admin within #forum, please use the following
 
 * __Suspension: (amount) (member)__
 
-  EG: Suspension: 7 days http://www.minecraftforum.net/user/424279-d3fin3d/
+  EG: Suspension: 7 days <http://www.minecraftforum.net/user/424279-d3fin3d/>
 
 * __Malware: (post) (scan if one has been done)__
 
-  EG: Malware: http://www.minecraftforum.net/topic/1384861- https://www.virustotal.com/en/file/23200dd58f8b2b225999eb1107d87e173540ad965e913ed2c3e2d9e235fe13d7/analysis/
+  EG: Malware: <http://www.minecraftforum.net/topic/1384861-> <https://www.virustotal.com/en/file/23200dd58f8b2b225999eb1107d87e173540ad965e913ed2c3e2d9e235fe13d7/analysis/>
 
 * __Spambot: (post)__
 
-  EG: Spambot: http://www.minecraftforum.net/topic/1384861-
+  EG: Spambot: <http://www.minecraftforum.net/topic/1384861->
 
 * __Alt: (members) (type) [thread]__
 
-  EG: Alt: http://www.minecraftforum.net/user/424279-d3fin3d/ Main: http://www.minecraftforum.net/user/424279-d3fin3d/
-Misrepresentation http://www.minecraftforum.net/topic/1384861-
+  EG: Alt: <http://www.minecraftforum.net/user/424279-d3fin3d/> Main: <http://www.minecraftforum.net/user/424279-d3fin3d/>
+Misrepresentation <http://www.minecraftforum.net/topic/1384861->
 
 * __Admin: (type) (link)__
 
   Used for all other requests:
 
-  EG: Admin: NSFW avatar: http://www.minecraftforum.net/user/424279-d3fin3d/
+  EG: Admin: NSFW avatar: <http://www.minecraftforum.net/user/424279-d3fin3d/>
   
-  EG: Admin: Profanity within signature: http://www.minecraftforum.net/user/424279-d3fin3d/
+  EG: Admin: Profanity within signature: <http://www.minecraftforum.net/user/424279-d3fin3d/>
   
-  EG: Admin: Infraction didn't expire: http://www.minecraftforum.net/user/424279-d3fin3d/
+  EG: Admin: Infraction didn't expire: <http://www.minecraftforum.net/user/424279-d3fin3d/>
 
 ### If no admins are available
 
 If you do not get a response from an admin within 30 minutes, please report to either:
 
-* __Spambot removals__ http://www.minecraftforum.net/topic/329156-how-to-deal-with-spammers-report-spammers-here/
-* __General requests__ http://www.minecraftforum.net/topic/300102-general-request-thread/
-* __Suspension requests__ http://www.minecraftforum.net/topic/1484957-suspension-request-thread/
+* __Spambot removals__ <http://www.minecraftforum.net/topic/329156-how-to-deal-with-spammers-report-spammers-here/>
+* __General requests__ <http://www.minecraftforum.net/topic/300102-general-request-thread/>
+* __Suspension requests__ <http://www.minecraftforum.net/topic/1484957-suspension-request-thread/>
 
 ### IRC clients
 
