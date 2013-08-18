@@ -1,7 +1,8 @@
 # Staff Guidelines
 
 These guidelines apply to all minecraftforum.net staff members. Feedback can be
-provided via the GitHub issues system in the GitHub repository: <https://github.com/minecraftforum/staff>.
+provided via the GitHub issues system in the GitHub repository: 
+<https://github.com/minecraftforum/staff>.
 
 ## Moderation
 
