@@ -754,6 +754,13 @@ the section and consuming the content.
   Post count means absolutely nothing. If a member has 5 extremely helpful posts, it's far better than a member
 with 500 useless posts.
 
+* __Vote objectively__
+
+  Do not vote on applications submitted by people that you have a direct affiliation with. This includes: RL friends,
+applicants that play on your server/the server you frequent and all other online friends. Voting for people you know is
+considered a conflict of interest and only serves to taint the objective voting process of Apparatus. You are free to
+comment on applicants you have a connection with, however please ensure you clearly state how you know the applicant.
+
 * __Don't just go with the crowd__
 
   Take your time to read through each application and make your own decision. Don't just vote as other's are voting.
