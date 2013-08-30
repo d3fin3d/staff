@@ -548,7 +548,7 @@ who are ready and able to help answer any queries you may have.
 
 * __Register your nickname__
 
-Your nickname is for you. By registering yor nickname, you can claim that name on the Esper network so that only you 
+Your nickname is for you. By registering your nickname, you can claim that name on the Esper network so that only you 
 can use it. To register your nick, use the following command:
 /msg nickserv register password email
 Follow the directions that NickServ will send you to complete the registeration.
@@ -573,8 +573,8 @@ In the #forum and #minecraftforums channel, op represent the admins for Minecraf
 
 * __#forum__
   
-  To be used for general moderation questions, suspension adjustments, ip checks, avatar and signature
-removals, spambots, malware and misused alt accounts.
+  The #forum channel should be used for general moderation questions, suspension adjustments, infraction fixes,
+ip checks, avatar and signature removals, spambots, malware and misused alt accounts.
 
 * __#mcf_(section)__
   
