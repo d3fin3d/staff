@@ -136,6 +136,13 @@ As such, do not move hosting threads into this category. If the thread is not a 
 As such, do not move these types of threads into any of the Tutorials and FAQs sections. If the thread is not a
 duplicate, move it to "Contact Forum Administration".
 
+* __Keep everything on MCF__
+
+  Disucssion with users about the moderation team and/or their actions, or requests, are to be kept on the forum, 
+  preferably using the PM system or the Contact Forum Admin section. Do not use IRC, Skype, voice chats, or any 
+  other form of communication to talk with members about the moderation team and/or actions involving them. 
+  This includes, but is not limited to: infraction disputes, reporting users/topics and informing users of actions
+
 ## Sectional Moderation
 
 ### Minecraft Discussion
