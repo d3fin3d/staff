@@ -459,6 +459,12 @@ an infraction for "Stolen Content (MCPE)".
   level infraction (instead of light, use medium, for example).
   
   If they continue this after 2 infractions, then ping an admin to have a harsher punishment inflicted.
+  
+* __"You are banned from this topic" is not a reason to hide__
+
+  Users cannot say a user is banned from a topic and that is grounds for removing it. Unless the post actually 
+  break rules, users cannot just ban someone from a topic. If the post breaks rules, remove it. Otherwise, 
+  leave it, even if someone said they were banned from the topic. 
 
 ### Support
 
