@@ -439,7 +439,7 @@ an infraction for "Stolen Content (MCPE)".
   This is not really worded well, but hosts must use legalized software on any part of their site. Examples of 
   the most common illegal software is nulled WHMCS. If hosts use illegal software, then remove their thread and 
   warn them that using illegal software is not allowed and that they are not permitted to advertise their site 
-  while they use such software. You can use this to see if they are using a valid copy of the WHMCS software.
+  while they use such software. You can use [this](http://www.whmcs.com/members/verifydomain.php) to see if they are using a valid copy of the WHMCS software.
 
 * __Do not lock host threads__
 
