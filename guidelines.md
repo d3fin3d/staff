@@ -455,8 +455,8 @@ an infraction for "Stolen Content (MCPE)".
   If a user bumps about 20 times, give the medium infraction.
   If they do it more than that, give the heavy.
   
-  Also be sure to *check their history*. If they have already been warned about it before, then use the next 
-  level infraction (instead of light, use medium, for example).
+  Also be sure to *check their history*. If they have already been warned about it before, then use the heavy 
+  infraction regardless of the amount.
   
   If they continue this after 2 infractions, then ping an admin to have a harsher punishment inflicted.
   
@@ -465,6 +465,12 @@ an infraction for "Stolen Content (MCPE)".
   Users cannot say a user is banned from a topic and that is grounds for removing it. Unless the post actually 
   break rules, users cannot just ban someone from a topic. If the post breaks rules, remove it. Otherwise, 
   leave it, even if someone said they were banned from the topic. 
+  
+* __Repeat offenses result in 3 point infractions__
+
+  If a user ignores an infraction and continues to break the same rule, then give a 3 point infraction. If they do 
+  it again, ping an admin to look at possible ban. The lee-way for this is about 3 months from the *last* infraction,
+  regardless of the reason.
 
 ### Support
 
