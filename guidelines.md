@@ -142,6 +142,11 @@ duplicate, move it to "Contact Forum Administration".
   preferably using the PM system or the Contact Forum Admin section. Do not use IRC, Skype, voice chats, or any 
   other form of communication to talk with members about the moderation team and/or actions involving them. 
   This includes, but is not limited to: infraction disputes, reporting users/topics and informing users of actions.
+  
+* __New rules__
+
+  When a rule is added or changed, first-time breaking of the rule should be done as an informal. Posts made before 
+  the new rule should not be infracted for except as an informal of the new rule.
 
 ## Sectional Moderation
 
