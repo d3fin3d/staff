@@ -413,7 +413,7 @@ an infraction for "Stolen Content (MCPE)".
  
   This section is specific and hosts must apply to get into this section. As a part of the application,
   they must agree to an agreement that any mod should read before moderating in this specific section. 
-  The agreement may be found [here] (http://www.minecraftforum.net/topic/1254208-how-to-post-your-company-in-this-section/#entry15862586). This agreement is very specific and does mention any violation of the 
+  The agreement may be found [here](http://www.minecraftforum.net/topic/1254208-how-to-post-your-company-in-this-section/#entry15862586). This agreement is very specific and does mention any violation of the 
   rules will result in their termination. If a host is breaking rules, please inform one of the admins about 
   it so that it can be looked at and determined if their agreement has been broken and if termination of their 
   thread is needed. We have been a bit lienent on this, but this will change.
