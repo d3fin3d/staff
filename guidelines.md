@@ -125,10 +125,11 @@ suspected thread/post and malware scan to [IRC](#staff-guidelines:irc).
   If a server thread is posted outside of the PC servers section, do not move it into servers. Hide the thread and
 infract for "Server thread (wrong section)". If it's a first offense, informal.
 
-* __Do not move threads into "Minecraft Server Hosting"__
+* __Do not move threads into "Minecraft Server Hosting" or "MCPE Server Hosting"__
 
   Minecraft server host threads are carefully vetted before being moved into the "Minecraft Server Hosting" section.
 As such, do not move hosting threads into this category. If the thread is not a duplicate, move it to "Other Hosts".
+In the case of a MCPE host, move it to CFA so that it can be looked at.
 
 * __Do not move threads into any of the "Tutorials and FAQs" sections__
 
