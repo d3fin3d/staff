@@ -474,7 +474,8 @@ an infraction for "Stolen Content (MCPE)".
   
 * __Repeat offenses result in 3 point infractions__
 
-  If a user ignores an infraction and continues to break the same rule, then give a 3 point infraction. If they do 
+  If a user ignores an informal infraction and continues to break the same rule, then give a 2 point infraction. 
+  If a user ignores a 1 point infraction and continues to break the same rule, then give a 3 point infraction. If they do 
   it again, ping an admin to look at possible ban. The lee-way for this is about 3 months from the *last* infraction,
   regardless of the reason.
 
