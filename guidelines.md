@@ -19,6 +19,12 @@ but general moderation is trickier and errors far more frequent. Only moderate f
 on MCF. Ultimately, proactive moderation is far more beneficial to the forum than just dealing with reports. Make
 sure reports aren't piling up but also remember that the vast majority of rule breaking content goes unreported.
 
+* _Correcting each other__
+
+If you are noticing another moderator making mistakes or what you think are mistakes, please contact the admin 
+first. Sometimes what one may think is right is not what is, and it would be safer to make sure everything is correct before
+incorrect information is passed around.
+
 ### Tools
 
 * __Locking__
