@@ -31,7 +31,9 @@ incorrect information is passed around.
 
   Threads should be locked if the thread itself is redundant or irrelevant. EG: repeated suggestions, content
 that could be posted within pinned threads or topics that have been bumped and are no longer relevant. Unless a
-thread is a couple of topic pages buried, or is old, you should always leave a lock message.
+thread is a couple of topic pages buried, or is old, you should always leave a lock message. The OP of a locked
+thread should not be infracted/informalled - the lock and accompanying message should adequately convey the rules
+without the need for an additional infraction/informal.
 
 * __Moving__
 
