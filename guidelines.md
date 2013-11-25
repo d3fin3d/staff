@@ -78,12 +78,6 @@ rules. Including smileys within infraction notices only serves to dilute the imp
 
   *Please note:* There are currently a couple of bugs with the infraction system:
   
-  - Members who receive 2 infraction points or more are often suspended for longer than they should be. On top of this,
-informal warnings applied to an account with 2 or more existing points tend to wrongly trigger posting suspensions.
-In the event of this, please alert an admin in [IRC](#staff-guidelines:irc) to fix the suspension. If you receive no response within
-30 minutes, please head to the
-[Suspension Request Thread](http://www.minecraftforum.net/topic/1484957-suspension-request-thread/).
-  
   - Infraction points don't always expire a month after the issuing date. In this case, please alert an admin
 in [IRC](#staff-guidelines:irc) to expire the infraction point(s). If you receive no response within 30 minutes, please head to the:
 [General Request Thread](http://www.minecraftforum.net/topic/300102-general-request-thread/).
