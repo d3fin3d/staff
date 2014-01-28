@@ -124,7 +124,7 @@ suspected thread/post and malware scan to [IRC](#staff-guidelines:irc).
 
 * __Misplaced server threads should be hidden__
 
-  If a server thread is posted outside of the PC servers section, do not move it into servers. Hide the thread and
+  If a server thread is posted outside of the PC Servers section, do not move it into Servers. Hide the thread and
 infract for "Server thread (wrong section)". If it's a first offense, informal.
 
 * __Do not move threads into "Minecraft Server Hosting" or "MCPE Server Hosting"__
@@ -406,9 +406,10 @@ an infraction for "Stolen Content (MCPE)".
 
 * __Replies in Hosting Requests need something besides a copy-paste__ 
 
-  What we mean is the use of copy-paste is not allowed at all. Replies to requests must be specific to that 
-  thread's needs, if a host replies and does not meet the needs but tries to offer their services, this is not 
-  allowed. Example, if someone wants a tekkit host, repliers must be able to offer tekkit hosting. Another thing
+  What we mean is that the use of copy-paste templates is allowed, but the copy-paste template must be tailored 
+  to meet that thread's specific needs.
+  If a host replies and does not meet the needs, but tries to offer their services, this is not 
+  allowed. Example, if someone wants a Tekkit host, repliers must be able to offer Tekkit hosting. Another thing
   is that replies that state "I have PM'ed you" or worded that way are not allowed. There is no reason to tell 
   them that, and serves no purpose to the thread. Those are to be hidden and the poster informaled about it.
 
