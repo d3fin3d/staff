@@ -721,9 +721,10 @@ If ever in doubt, always ask before making "official" sounding statements.
 
 * __Moderate objectively__
 
-  You should never moderate content that you are directly affiliated with. This includes: Your own topics, threads
-of servers that you admin/moderate/help out with, infraction disputes and replies to your posts. If there's any
-hint of a conflict of interest, please either report the rule break or refer the task to a fellow staff member.
+  You should never moderate content that you are directly affiliated with. This includes but is not limited to:
+Your own topics, threads of servers that you admin/moderate/help out with, infraction disputes, content posted by
+friends/family and replies to your posts. If there's any hint of a conflict of interest, please either report the
+rule break or refer the task to a fellow staff member.
 
 * __Don't flame Mojang or their partners__
 
