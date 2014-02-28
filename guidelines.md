@@ -108,6 +108,20 @@ breaking the rules without consequence.
 word(s) edited out. If the profanity coincides with flaming or any other rule breaks, please remove the entire post
 and include both infraction reasons in your infraction message.
 
+* __Dealing with non-English posts__
+
+  Members are free to use languages other than English providing they also post an English translation of their text. The exception to this is content based posts such as server, mod or map threads. Members should not be informalled or infracted for the use of non-English. If you come accross a post that isn't in English, please send the member the following text within a private message:
+
+  "Hi [name],
+  
+  The Minecraft Forums is primarily an English speaking website therefore we request that all discussions use English to avoid miscommunication.
+  
+  I have added an English translation of your text to [this] post.
+  
+  We recommend http://translate.google.com/ for translating text to English.
+  
+  Thanks."
+
 * __Spambots vs. legitimate members__
 
   It's important to differentiate between spambots and legitimate members. Typically, spambots post streaming/pirated
