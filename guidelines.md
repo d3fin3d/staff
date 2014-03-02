@@ -110,7 +110,7 @@ and include both infraction reasons in your infraction message.
 
 * __Dealing with non-English posts__
 
-  Members are free to use languages other than English providing they also post an English translation of their text. The exception to this is content based posts such as server, mod or map threads. Members should not be informalled or infracted for the use of non-English. If you come accross a discussional post that isn't in English, please use [Google Translate](http://translate.google.com/) to convert the post to English, then edit in the translation beneath the original text. Once complete, please send the member the following within a private message:
+  Members are free to use languages other than English providing they also post an English translation of their text. Content based posts such as server, mod or map threads do not require an English translation. Members should not be informalled or infracted for the use of non-English. If you come across a discussional post that isn't in English, please use [Google Translate](http://translate.google.com/) to convert the post to English, then edit in the translation beneath the original text. Once complete, please send the member the following within a private message:
 
   "Hi [name],
   
