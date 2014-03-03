@@ -136,6 +136,10 @@ for free this way. Please infract such users as normal.
 [VirusTotal](https://www.virustotal.com/en-gb/) or [Anubis](http://anubis.iseclab.org/) then report both the
 suspected thread/post and malware scan to [IRC](#staff-guidelines:irc).
 
+* __Tracking stolen content__
+
+  When infracting for stolen content, always ensure that the originating work is linked within the moderator notes section of the infraction entry. If there is no originating link, please provide written evidence.
+
 * __Misplaced server threads should be hidden__
 
   If a server thread is posted outside of the PC Servers section, do not move it into Servers. Hide the thread and
