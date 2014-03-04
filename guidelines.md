@@ -65,7 +65,7 @@ rule break is worth 2 points or more.
   * Do not stack infractions for related content. If a member pastes the same rule breaking content numerous times in
 quick succession, infract them only once. If they continue breaking the same rule after their infraction, infract again.
 
-  * If a user breaks different rules across different topics, then seperate infractions should be issued. Spam topics are exempt from this rule and should be done in one infraction.
+  * If a user breaks different rules across different topics, then separate infractions should be issued. Spam topics are exempt from this rule and should be done in one infraction.
 
   * Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
 rules. Including smileys within infraction notices only serves to dilute the importance of the message.
