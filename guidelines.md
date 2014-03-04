@@ -63,14 +63,9 @@ a different category. This ensures members can easily find their post.
 rule break is worth 2 points or more.
 
   * Do not stack infractions for related content. If a member pastes the same rule breaking content numerous times in
-quick succession, infract them once only. If they continue breaking the same rule after their infraction, infract again.
-If a member breaks two rules within one post, infract once but add both reasons into the infraction message. Similarly,
-if a member breaks rules on two separate occasions within the same thread, again infract once but add both reasons
-into the infraction message. An exception should be made to these guidelines if any rule breaks are worth 2 points or
-more.
+quick succession, infract them only once. If they continue breaking the same rule after their infraction, infract again.
 
-  * Content that is no longer current should not be infracted. Rule breaking posts which are over a month old may still
-be edited or hidden where necessary however please do not issue an informal/infraction.
+  * If a user breaks different rules across different topics, then seperate infractions should be issued. Spam topics are exempt from this rule and should be done in one infraction.
 
   * Do not add smileys within infraction messages. Infractions exist as a formal warning and/or informal reminder of the
 rules. Including smileys within infraction notices only serves to dilute the importance of the message.
