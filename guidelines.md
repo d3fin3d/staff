@@ -168,6 +168,11 @@ duplicate, move it to "Contact Forum Administration".
 
   When a rule is added or changed, first-time breaking of the rule should be done as an informal. Posts made before 
   the new rule should not be infracted for except as an informal of the new rule.
+  
+* __Re-reported content__
+
+  If a post or topic gets reported again, the moderator who handled it last time should not handle it. This is to 
+  allow a second pair of eyes to review the report to make sure the original action was correct.
 
 ## Sectional Moderation
 
