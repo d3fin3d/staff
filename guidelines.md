@@ -97,6 +97,13 @@ or more prior informals, it's time to give them a formal infraction. Informals e
 rules and to informally warn for light rule breaks. Piling up informals suggests that it's possible to continue
 breaking the rules without consequence.
 
+* __Bumping defined__
+
+  Bumps are considered insubstantial contentless posts designed to push a thread to the top of the forum.
+Consecutive posts are not always classified as bumping. Members are permitted to post a single reply
+to their original post/thread providing that the post contains new relevant information. Any further consecutive
+replies should be considered bumping.
+
 * __Dealing with profanity__
 
   If a post contains profanity, acronyms and self-censorship included, the content should be infracted for then the
@@ -151,13 +158,6 @@ In the case of a MCPE host, move it to CFA so that it can be looked at.
   Tutorials and FAQ threads are carefully vetted before being moved into one of the "Tutorials and FAQs" sections.
 As such, do not move these types of threads into any of the Tutorials and FAQs sections. If the thread is not a
 duplicate, move it to "Contact Forum Administration".
-
-* __Keep everything on MCF__
-
-  Discussion with users about the moderation team and/or their actions, or requests, are to be kept on the forum, 
-  preferably using the PM system or the Contact Forum Admin section. Do not use IRC, Skype, voice chats, or any 
-  other form of communication to talk with members about the moderation team and/or actions involving them. 
-  This includes, but is not limited to: infraction disputes, reporting users/topics and informing users of actions.
   
 * __New rules__
 
@@ -698,6 +698,13 @@ smoothly, there are some fundamental points of etiquette that need to be followe
   All communication within staff IRC channels, the Administrator & Moderator section, Apparatus, infraction PM's
 and all other staff orientated interaction is considered private and confidential. Do not, under any
 circumstances, divulge any of this material to anyone beyond the staff group.
+
+* __Keep everything on MCF__
+
+  Discussion with users about the moderation team and/or their actions, or requests, are to be kept on the forum, 
+  preferably using the PM system or the Contact Forum Admin section. Do not use IRC, Skype, voice chats, or any 
+  other form of communication to talk with members about the moderation team and/or actions involving them. 
+  This includes, but is not limited to: infraction disputes, reporting users/topics and informing users of actions.
 
 * __Don't break the rules__
 
